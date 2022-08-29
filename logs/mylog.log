@@ -1,0 +1,326 @@
+[INFO ] 2022-07-17 17:57:15.734 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 17:57:18.020 [main] TokanAutomation - sign up page opened
+[DEBUG] 2022-07-17 17:57:18.467 [main] TokanAutomation - Name entered
+[DEBUG] 2022-07-17 17:57:18.726 [main] TokanAutomation - Email entered
+[DEBUG] 2022-07-17 17:57:18.871 [main] TokanAutomation - Password entered
+[INFO ] 2022-07-17 17:59:17.523 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 17:59:19.825 [main] TokanAutomation - sign up page opened
+[DEBUG] 2022-07-17 17:59:20.237 [main] TokanAutomation - Name entered
+[DEBUG] 2022-07-17 17:59:20.507 [main] TokanAutomation - Email entered
+[DEBUG] 2022-07-17 17:59:20.691 [main] TokanAutomation - Password entered
+[INFO ] 2022-07-17 18:09:30.881 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 18:09:31.038 [main] TokanAutomation - sign up page opened
+[DEBUG] 2022-07-17 18:09:33.180 [main] TokanAutomation - Name entered
+[DEBUG] 2022-07-17 18:09:33.256 [main] TokanAutomation - Email entered
+[DEBUG] 2022-07-17 18:09:33.328 [main] TokanAutomation - Password entered
+[INFO ] 2022-07-17 18:12:14.173 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 18:12:14.337 [main] TokanAutomation - sign up page opened
+[DEBUG] 2022-07-17 18:12:16.463 [main] TokanAutomation - Name entered
+[DEBUG] 2022-07-17 18:12:16.542 [main] TokanAutomation - Email entered
+[DEBUG] 2022-07-17 18:12:16.595 [main] TokanAutomation - Password entered
+[INFO ] 2022-07-17 18:43:48.897 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 18:43:49.192 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-07-17 18:46:11.304 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 18:46:11.589 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-07-17 18:48:01.077 [main] TokanAutomation - url opened
+[DEBUG] 2022-07-17 18:48:05.657 [main] TokanAutomation - Name entered
+[DEBUG] 2022-07-17 18:48:05.940 [main] TokanAutomation - Email entered
+[DEBUG] 2022-07-17 18:48:06.234 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-17 22:11:29.418 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-17 22:11:33.696 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-17 22:11:33.839 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-17 22:11:33.949 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-17 22:16:30.482 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-17 22:16:30.672 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-08-17 22:18:05.237 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-17 22:18:05.432 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-08-17 22:43:18.798 [main] TokanAutomation - url opened
+[INFO ] 2022-08-17 22:45:38.116 [main] TokanAutomation - url opened
+[INFO ] 2022-08-17 22:47:45.270 [main] TokanAutomation - url opened
+[INFO ] 2022-08-17 22:50:03.165 [main] TokanAutomation - url opened
+[INFO ] 2022-08-17 22:50:12.095 [main] TokanAutomation - url opened
+[INFO ] 2022-08-18 10:58:08.312 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-18 10:58:08.516 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-08-18 10:58:29.478 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 22:33:51.399 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-23 22:33:51.803 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-08-23 22:38:24.876 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-23 22:38:25.499 [main] TokanAutomation - sign up page opened
+[INFO ] 2022-08-23 22:40:15.033 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 22:41:19.726 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 22:41:43.165 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 22:43:58.741 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:02:31.761 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:09:47.879 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:12:17.644 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:19:21.016 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:20:07.137 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:20:16.995 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:20:55.087 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:23:54.539 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:25:58.625 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:28:42.039 [main] TokanAutomation - url opened
+[INFO ] 2022-08-23 23:32:40.463 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 00:55:43.000 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 00:56:49.391 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 00:59:34.282 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:21:13.147 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:22:23.557 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:23:23.997 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:46:04.484 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:49:00.663 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:49:43.013 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 01:58:29.636 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:04:26.540 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:08:10.665 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:11:47.325 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:15:31.962 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:21:21.492 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:22:18.925 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:33:34.933 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:35:05.143 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:38:22.403 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 02:52:41.416 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:02:13.631 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:03:17.479 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:04:18.201 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:11:41.484 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:14:57.393 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:17:50.467 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:20:08.056 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:22:41.341 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:25:24.721 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:33:39.656 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:35:22.862 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:36:47.813 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:39:43.946 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:40:29.874 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:41:38.801 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:45:19.866 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:47:54.129 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:48:44.558 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:50:05.106 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:52:54.335 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:54:00.053 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 03:58:26.078 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 04:00:12.632 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 04:02:39.858 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 04:04:11.454 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 04:09:17.498 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:09:21.876 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:09:22.044 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:09:22.227 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:13:35.271 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:13:39.646 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:13:39.789 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:13:39.934 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:16:38.972 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:16:43.311 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:16:43.469 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:16:43.659 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:17:26.676 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:17:31.047 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:17:31.243 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:17:33.396 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:19:06.380 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:19:10.808 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:19:11.029 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:19:13.175 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:22:14.067 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:22:18.364 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:22:18.570 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:22:20.699 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:25:50.816 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 04:26:30.992 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 04:26:35.213 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 04:26:35.389 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 04:26:37.515 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 04:33:13.172 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 04:48:46.762 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 10:36:06.656 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 10:36:52.612 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-24 10:36:56.817 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-24 10:36:56.954 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-24 10:36:59.086 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-24 10:39:11.174 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 10:42:03.462 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 10:59:29.351 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 11:17:34.658 [main] TokanAutomation - url opened
+[INFO ] 2022-08-24 11:45:47.429 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:27:18.900 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:27:22.124 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:27:30.656 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:38:52.893 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:39:50.289 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:42:32.898 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:43:46.546 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:46:30.040 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 00:59:55.324 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:01:20.768 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:08:06.690 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:09:34.719 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:16:28.894 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:32:39.395 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:42:12.027 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:43:52.403 [main] TokanAutomation - url opened
+[INFO ] 2022-08-25 01:46:59.515 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 00:47:51.424 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:03:08.370 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:16:00.058 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:18:19.525 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:21:45.057 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:24:28.157 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:27:52.396 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:31:31.219 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:38:03.570 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:47:40.282 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:57:01.819 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 01:59:41.766 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:00:28.585 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:02:56.331 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:05:41.306 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:12:06.438 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:13:18.627 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:17:28.053 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:21:33.469 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:22:45.402 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:24:00.229 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:25:14.307 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:26:17.982 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:41:31.249 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:42:28.314 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:43:06.449 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:44:13.474 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:47:06.880 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:49:55.749 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:53:47.043 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 02:56:08.164 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:00:58.303 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:01:02.529 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:01:02.630 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:01:04.741 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:01:15.854 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:01:42.964 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:03:45.845 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:03:50.037 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:03:50.137 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:03:52.249 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:04:03.832 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:04:36.070 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:07:04.842 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:07:09.023 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:07:09.111 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:07:11.204 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:07:22.452 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:07:48.551 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:09:31.956 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:09:36.157 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:09:36.249 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:09:38.365 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:09:48.702 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:10:27.322 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:12:26.090 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:12:30.313 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:12:30.404 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:12:32.491 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:12:44.489 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:13:48.975 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:14:23.387 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:14:27.593 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:14:27.693 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:14:29.782 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:14:41.569 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:15:19.458 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:17:51.667 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:17:55.875 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:17:55.969 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:17:58.070 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:18:09.307 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:18:52.659 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:20:11.617 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 03:20:15.821 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 03:20:15.920 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 03:20:18.015 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 03:20:29.033 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:21:17.070 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:26:05.456 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:41:06.782 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:42:22.493 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:43:12.491 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:43:33.593 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:45:10.754 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:46:19.178 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:47:36.608 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:49:07.605 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:50:19.429 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:54:14.501 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:59:08.533 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 03:59:25.206 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:00:28.359 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:01:15.582 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:05:41.983 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:08:07.437 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:09:07.513 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:10:43.047 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:11:21.840 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:14:22.116 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:22:11.111 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:26:58.943 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:27:31.084 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:30:17.028 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:34:04.498 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 04:34:05.028 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 11:28:08.560 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 11:29:21.379 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 11:29:25.854 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 11:29:26.088 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 11:29:28.231 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 11:29:39.433 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 11:30:24.359 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 13:26:51.383 [main] TokanAutomation - url opened
+[DEBUG] 2022-08-26 13:26:55.629 [main] TokanAutomation - Name entered
+[DEBUG] 2022-08-26 13:26:55.730 [main] TokanAutomation - Email entered
+[DEBUG] 2022-08-26 13:26:57.833 [main] TokanAutomation - Password entered
+[INFO ] 2022-08-26 13:27:21.190 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 13:27:54.082 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 17:42:51.683 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 17:44:33.343 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 17:45:23.240 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 17:47:16.590 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 17:48:41.286 [main] TokanAutomation - url opened
+[INFO ] 2022-08-26 17:49:48.965 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 16:10:58.099 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 16:18:50.130 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 16:24:32.452 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 16:28:50.594 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 16:38:39.786 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:22:34.498 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:24:55.548 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:29:22.050 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:32:57.987 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:34:03.324 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:35:18.090 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:38:05.267 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:40:26.441 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:43:52.286 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 17:44:25.251 [main] TokanAutomation - ss
+[INFO ] 2022-08-28 23:29:07.651 [main] TokanAutomation - url opened
+[INFO ] 2022-08-28 23:29:56.252 [main] TokanAutomation - ss
+[INFO ] 2022-08-28 23:31:14.889 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:38:05.276 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:38:44.807 [main] TokanAutomation - ss
+[INFO ] 2022-08-29 14:39:15.791 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:41:10.736 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:42:17.271 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:43:31.542 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:46:36.566 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:47:36.877 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:48:20.802 [main] TokanAutomation - ss
+[INFO ] 2022-08-29 14:50:59.586 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:52:09.543 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:54:08.853 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:55:13.489 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:56:31.384 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 14:57:07.421 [main] TokanAutomation - ss
+[INFO ] 2022-08-29 14:59:07.810 [main] TokanAutomation - url opened
+[INFO ] 2022-08-29 15:00:11.363 [main] TokanAutomation - url opened
